@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yuichiro Waki"
+  name             : "Saera Oh"
   avatar           : "profile.png"
-  bio              : "Associate Professor of Economics, Aoyama Gakuin University"
-  location         : "Tokyo"
-  employer         : "Aoyama Gakuin University"
+  bio              : "PhD Candidate, Michigan State University"
+  location         : "East Lansing, Michigan"
+  employer         : "Department of Agriculture, Food and Resource Economics"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=efRzRDgAAAAJ"
-  email            : "ywakiecon@gmail.com"
+  email            : "ohsaera@msu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ywaki-econ"
+  github           : "sroh722"
   google_plus      :
   keybase          :
   instagram        :
