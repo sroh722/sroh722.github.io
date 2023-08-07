@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Saera Oh's personal website"
+title: "Biography"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
