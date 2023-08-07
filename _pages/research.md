@@ -14,5 +14,5 @@ redirect_from:
 <hr>
 
 ## Working Papers
-* [**"Global Value Chains and Intellectual Property Right in Agricultural Trade"**] (with Sunghun Lim and Titus Awokuse) **Draft will be provided upon request**
+* **"Global Value Chains and Intellectual Property Right in Agricultural Trade"** (with Sunghun Lim and Titus Awokuse) _Draft will be provided upon request_
 
