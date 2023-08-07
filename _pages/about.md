@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yuichiro Waki's website"
+title: "Saera Oh's website"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,15 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am an Associate Professor at Department of Economics, Aoyama Gakuin University, and a Honorary Senior Fellow at School of Economics, the University of Queensland. 
+Hello, I am PhD Candidate in Economics and Agriculture, Food & Resource Economics at the Michigan State University on the 2024-2025 job market.
+My research interests are international trade, development economics, labor economics, and U.S. farm labor. 
 
-青山学院大学経済学部准教授，クイーンズランド大学名誉シニア・フェロー（Honorary Senior Fellow）
-
-My research interests include macroeconomics, monetary economics, and computational economics. 
-
-**Contact**: ywakiecon@gmail.com
-
-
+**Contact**: ohsaera@msu.edu
 
 What's new
 ======
