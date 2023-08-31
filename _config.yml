@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Saera Oh"
-  avatar           : "bio-photo.jpg"
+  avatar           : 
   bio              : "PhD Candidate, Michigan State University"
   location         : "East Lansing, Michigan"
   # employer         : "Department of Agriculture, Food and Resource Economics"
