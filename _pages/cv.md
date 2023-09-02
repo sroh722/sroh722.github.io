@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Here is my CV(files/CV_SaeraOh.pdf).
+[Here is my CV](files/CV_SaeraOh.pdf).
