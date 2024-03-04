@@ -14,5 +14,6 @@ redirect_from:
 <hr>
 
 ## Working Papers
-* **"Global Value Chains and Intellectual Property Right in Agricultural Trade"** (with Sunghun Lim and Titus Awokuse) _Draft will be provided upon request_
+* Geopolitical Risks and Agricultural Trade Diversification in Southern Africa: Port-level Evidence from the Russia-Ukraine War" (with Sunghun Lim) - _Submitted_
+* Global Value Chains and Intellectual Property Right in Agricultural Trade (with Sunghun Lim and Titus Awokuse) - _In Progress_
 
