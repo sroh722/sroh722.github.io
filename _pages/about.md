@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I am a PhD Candidate at the Department of Agriculture, Food & Resource Economics (AFRE) at the Michigan State University. I am a dual major in Economics and AFRE. My main fields of interest are international trade and development economics.
+Hello, I am a PhD Candidate at the Department of Agriculture, Food & Resource Economics (AFRE) at the Michigan State University. I am a dual major in Economics and AFRE. My main fields of interest are international trade, agricultural trade policy, and development economics.
 
 **Contact**: ohsaera@msu.edu
 
