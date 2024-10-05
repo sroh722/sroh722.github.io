@@ -10,7 +10,6 @@ redirect_from:
 <hr>
 
 ## Job Market Paper
-> [!NOTE]
 > Coming Soon!
 <hr>
 
