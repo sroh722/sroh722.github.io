@@ -6,11 +6,11 @@ main:
   - title: "Research"
     url: /research/
     
-  # - title: "推薦状について"
-  #  url: /referenceletter/
+  - title: "Teaching"
+    url: /teaching/
 
-  # - title: "学部ゼミ"
-  #  url: /undergradseminar/
+  - title: "고양이"
+    url: /personal/
 
   # title: "Blog Posts"
   #  url: /year-archive/
