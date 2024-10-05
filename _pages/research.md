@@ -14,7 +14,10 @@ redirect_from:
 <hr>
 
 ## Working Papers
-$${\color{green}[Geopolitical Risks and Agricultural Trade Diversification in Southern Africa: Port-level Evidence from the Russia-Ukraine War](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4748821)}$$ 
+
+<span style="color:green">
+[Geopolitical Risks and Agricultural Trade Diversification in Southern Africa: Port-level Evidence from the Russia-Ukraine War](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4748821)}
+</span>
 (with Sunghun Lim) - _Accepted_ at Journal of the Agricultural and Applied Economics Association
 <details>
 <summary>Abstract</summary>
