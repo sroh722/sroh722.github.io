@@ -8,5 +8,5 @@ redirect_from:
 ---
 <hr>
 
-## Teaching Assistance
+## Teaching Assistant
 Fall 2024: AFRE 100 - Decision Making in the Agri-Food System
