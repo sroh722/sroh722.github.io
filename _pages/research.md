@@ -15,7 +15,7 @@ redirect_from:
 
 ## Working Papers
 
-[Geopolitical Risks and Agricultural Trade Diversification in Southern Africa: Port-level Evidence from the Russia-Ukraine War]{(https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4748821)}
+[Geopolitical Risks and Agricultural Trade Diversification in Southern Africa: Port-level Evidence from the Russia-Ukraine War](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4748821) \
 (with Sunghun Lim) - _Accepted_ at Journal of the Agricultural and Applied Economics Association
 <details>
 <summary>Abstract</summary>
@@ -23,7 +23,8 @@ With the spread of global agricultural value chains, international geopolitical 
 </details>
 
   
-Global Value Chains and Intellectual Property Right in Agricultural Trade (with Sunghun Lim and Titus Awokuse) - _In Progress_
+Global Value Chains and Intellectual Property Right in Agricultural Trade \
+(with Sunghun Lim and Titus Awokuse) - _In Progress_
 <details>
 <summary>Abstract</summary>
 This paper examines the impact of intellectual property rights (IPR)-related trade policy on agri-food global value chains (GVCs). The study uses IPR provisions in regional trade agreements (RTAs) as a proxy for IPR-related trade policy. The empirical specification follows a gravity model, and the Pseudo Poisson Maximum Likelihood method is employed. The paper analyzes the overall effect of IPR provisions in RTAs on average GVC trade in the agriculture and food sectors. We further explore the trade effects of IPR provisions based on their specific characteristics, utilizing the deep trade agreement data published by the World Bank. Finally, the paper investigates the effects of IPR provisions by income pair group. The empirical results indicate that average bilateral agricultural GVC trade participation decreases between members with RTAs that include IPR provisions compared to those without. However, the effects vary by the type of IPR provisions. The results suggest that an interactive effect between the two types of IPR provisions is crucial for enhancing agricultural and food GVC trade, whereas single-type IPR provisions have a negative effect. The effects are more significant in the agriculture sector compared to the food sector. Moreover, the study finds heterogeneous effects across countries' income levels.  
