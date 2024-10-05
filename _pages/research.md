@@ -11,8 +11,9 @@ redirect_from:
 
 ## Job Market Paper
 
-<p style="color:blue">Make this text blue.</p>
-
+<pre>
+<span color="red">red</span>
+<pre>
 
 <hr>
 
