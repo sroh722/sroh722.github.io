@@ -10,7 +10,7 @@ redirect_from:
 <hr>
 
 ## Job Market Paper
-
+\textcolor{red}{red}
 
 <hr>
 
