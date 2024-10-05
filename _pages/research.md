@@ -10,7 +10,6 @@ redirect_from:
 <hr>
 
 ## Job Market Paper
-<p class="custom-color">This text is styled with the custom color.</p>
 
 <hr>
 
