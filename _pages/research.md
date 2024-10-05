@@ -11,7 +11,7 @@ redirect_from:
 
 ## Job Market Paper
 
-$${\color{lightblue}Coming Soon}$$	
+$${\color{lightblue} Coming \space Soon}$$	\
 
 <hr>
 
