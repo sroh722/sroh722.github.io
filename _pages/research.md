@@ -11,7 +11,7 @@ redirect_from:
 
 ## Job Market Paper
 
-$${\color{lightblue} Coming \space Soon}$$
+<p style="color:blue">Make this text blue.</p>
 
 
 <hr>
