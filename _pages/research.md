@@ -11,9 +11,6 @@ redirect_from:
 
 ## Job Market Paper
 
-<pre>
-<span color="red">red</span>
-<pre>
 
 <hr>
 
