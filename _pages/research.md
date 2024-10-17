@@ -26,8 +26,8 @@ Multinational Status and Trade Costs: Insights from the Global Banana Trade - _I
 <summary>Abstract</summary>
 With the spread of global agricultural value chains, international geopolitical risks often unintentionally trigger food insecurity in bystander countries. This study explores the impact of Russia's invasion of Ukraine on wheat supplies in South Africa and their trade diversification. Using port-level trade data, we show that South Africa, the main distribution route for South African wheat supplies, rapidly diversified its imports to mitigate geopolitical risk in the aftermath of the war. This sudden import diversification prevented the war-induced decline in average wheat imports, yet it led to an increase in the volatility of annual imports. More importantly, the import diversification contributed to more secure wheat supplies for southern African landlocked countries that were heavily reliant on border imports from South Africa. Our study highlights that sourcing diversification in a country with well-developed port infrastructure could be instrumental in stave off food insecurity in neighboring countries in times of geopolitical crises.    
 </details>
-  
-Global Value Chains and Intellectual Property Right in Agricultural Trade \
+
+[Global Value Chains and Intellectual Property Right in Agricultural Trade](/files/AAEA2023_SaeraOh.pdf) \
 (with Sunghun Lim and Titus Awokuse) - _A draft can be provided upon request_
 <details>
 <summary>Abstract</summary>
