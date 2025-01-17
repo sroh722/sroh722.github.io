@@ -14,7 +14,7 @@ Multinational Status and Trade Costs: Insights from the Global Banana Trade - _I
 <hr>
 
 ## Working Paper
-[Global Value Chains and Intellectual Property Right in Agricultural Trade](/files/AAEA2023_SaeraOh.pdf) (with Sunghun Lim and Titus Awokuse) - _A draft will be provided upon request_
+[Global Value Chains and Intellectual Property Right in Agricultural Trade](https://sroh722.github.io/files/AAEA2023_SaeraOh.pdf) (with Sunghun Lim and Titus Awokuse) - _A draft will be provided upon request_
 
 <details>
 <summary>Abstract</summary>
