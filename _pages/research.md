@@ -14,8 +14,12 @@ Multinational Status and Trade Costs: Insights from the Global Banana Trade - _I
 <hr>
 
 ## Working Paper
+[Global Value Chains and Intellectual Property Right in Agricultural Trade](/files/AAEA2023_SaeraOh.pdf) (with Sunghun Lim and Titus Awokuse) - _A draft will be provided upon request_
 
-Global Value Chains and Intellectual Property Right in Agricultural Trade (with Sunghun Lim and Titus Awokuse) - _A draft will be provided upon request_
+<details>
+<summary>Abstract</summary>
+This study examines the impact of intellectual property rights (IPR)-related trade policy on agri-food global value chains (GVCs). We use IPR provisions in regional trade agreements (RTAs) as a proxy for IPR-related trade policy. The empirical specification follows a gravity model. We explore the trade effects of IPR provisions based on their specific characteristics using the deep trade agreement data published by the World Bank. Additionally, the study analyzes the effects of IPR provisions by income pair group. The results indicate that average bilateral agricultural GVC trade participation decreases between members with RTAs containing IPR provisions compared to those without them. However, the effects vary by the type of IPR provisions. The findings suggest that interactive effects between different types of IPR provisions are crucial for enhancing agricultural and food GVC trade, while single-type IPR provisions have negative effects. These effects are more pronounced in the agriculture sector compared to the food sector and vary across income levels.  
+</details>
 
 ## Publication
 [Geopolitical Risks and Agricultural Trade Diversification in Southern Africa: Port-level Evidence from the Russia-Ukraine War](https://onlinelibrary.wiley.com/doi/full/10.1002/jaa2.141?campaign=wolearlyview) \
