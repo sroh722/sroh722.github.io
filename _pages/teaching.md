@@ -9,4 +9,4 @@ redirect_from:
 <hr>
 
 ## Teaching Assistant
-Fall 2024: AFRE 100 - Decision Making in the Agri-Food System
+Fall 2024, Spring 2025 : AFRE 100 - Decision Making in the Agri-Food System
