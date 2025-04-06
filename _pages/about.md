@@ -12,7 +12,7 @@ Hi! I'm a PhD candidate in the Department of Agriculture, Food & Resource Econom
 **Contact**: ohsaera@msu.edu
 
 ## News 📢 
-<span style="font-size:0.7em;"> 💼 03/2025 Upcoming Presentation at 2025 Midwestern Economic Association (MEA) @ Kansas City.</span> <br>
+<span style="font-size:0.7em;"> 💼 03/2025 Presentation at 2025 Midwestern Economic Association (MEA) @ Kansas City.</span> <br>
 <span style="font-size:0.7em;"> 📑 12/2024 "Geopolitical Risks and Agricultural Trade Diversification in Southern Africa: Port-level Evidence from the Russia-Ukraine War" published in *Journal of the Agricultural and Applied Economics Association*.</span> <br>
 <span style="font-size:0.7em;"> 💼 07/2024 Presentation at 2024 Agricultural and Applied Economics Association (AAEA) Annual Meeting @ New Orleans.</span> <br>
 <span style="font-size:0.7em;"> 💼 12/2023 Presentation at International Agricultural Trade Research Consortium (IATRC) Annual Meeting @ Clearwater Beach.</span> <br>
