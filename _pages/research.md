@@ -11,6 +11,7 @@ redirect_from:
 
 ## Job Market Paper
 Multinational Status and Distance Elasticity - _In Progress_
+<details>
 <summary>Abstract</summary>
 This study investigates the heterogeneity in trade costs among firms engaged in international trade, with a particular focus on distance elasticity. We explore how trade costs vary depending on whether a firm is multinational and whether transactions occur within or between firms. Beginning with a flagship commodity—bananas, one of the most traded goods globally, but only produced in a certain region—we extend the analysis to encompass all traded commodities. We utilize bill of lading data from S&P Panjiva Supply Chain Intelligence. Distance elasticity is estimated using the tetrads method developed by Head (2010), along with a structural gravity model that incorporates firm-level heterogeneity. This research contributes to the literature on multinational firms and international trade by providing empirical evidence on how global supply chains influence the dynamics of trade costs in global markets.
 </details>
@@ -19,6 +20,7 @@ This study investigates the heterogeneity in trade costs among firms engaged in 
 ## Working Paper
 
 Trade Policy, Crop Choice, and Water Stress: Evidence from Mexican Agriculture (with Hyeseon Shin)
+<details>
 <summary>Abstract</summary>
 International trade can influence the crop choices of local farmers, with important implications for water use, as some crops are significantly more water-intensive than others. Yet, trade patterns do not always align with comparative advantages in water availability—water-scarce countries may continue to export water-intensive crops, potentially worsening local water shortages. This study investigates how trade policy shapes crop selection in Mexican agriculture and evaluates its effects on local water resources.
 </details>
