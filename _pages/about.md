@@ -7,7 +7,7 @@ redirect_from:
   - /about
 ---
 
-Hi! I'm a PhD candidate in the Department of Agriculture, Food & Resource Economics (AFRE), with a dual major in Economics at Michigan State University. I find joy in studying international trade 🚢, trade policy 🌐, development economics 🍀, and related issues. I love working with new data and developing skills in data acquisition, manipulation, and analysis. Before starting my PhD journey, I was a researcher at the Korea Rural Economic Institute, where I had the opportunity to learn about practical issues in international commerce and trade. I received both my Master's and Bachelor's degrees from Seoul National University in South Korea. I am currently on the 2025–2026 job market.
+Hi! I'm a PhD candidate in the Department of Agriculture, Food & Resource Economics (AFRE), with a dual major in Economics at Michigan State University. I find joy in studying international trade 🚢, trade policy 🌐, development economics 🍀, and related issues. I love working with new data and developing skills in data acquisition, manipulation, and analysis. Before starting my PhD journey, I was a researcher at the Korea Rural Economic Institute, where I had the opportunity to learn about practical issues in international commerce and trade. I received both my Master's and Bachelor's degrees from Seoul National University in South Korea. I will be on the job market in the 2025-2026 academic year.
 
 **Contact**: ohsaera@msu.edu
 
