@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Sharing my CVs here: [long](/files/CV_SaeraOh_AgEcon_update.pdf) and [short](/files/CV_SaeraOh_Econ_update.pdf).
+Sharing my CVs here: [long](/files/CV_SaeraOh_AgEcon_update_1015.pdf) and [short](/files/CV_SaeraOh_Econ_update.pdf).
