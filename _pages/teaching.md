@@ -9,4 +9,6 @@ redirect_from:
 <hr>
 
 ## Teaching Assistant
-Fall 2024, Spring 2025 : AFRE 100 - Decision Making in the Agri-Food System
+Fall 2024, Spring 2025 : AFRE 100 - Decision Making in the Agri-Food System <br>
+
+Fall 2025 : AFRE 232 - Commodity Marketing I, AFRE 265 - Ecological Economics
