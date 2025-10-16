@@ -11,6 +11,8 @@ Hi! I'm a PhD candidate in the Department of Agriculture, Food & Resource Econom
 
 I will be on the job market in the 2025-2026 academic year.
 
+Browsing MSU AFRE’s Job Market Candidate Page: [Me](https://www.afrejobcandidates.com/saera-oh) and [other great candidates](https://www.afrejobcandidates.com/)
+
 **Contact**: ohsaera@msu.edu
 
 ## News 📢 
