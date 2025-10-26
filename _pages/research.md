@@ -13,6 +13,9 @@ redirect_from:
 
 🔖 Related Party Trade and Gravity: Revisiting the Distance Effects *(Draft Forthcoming)*
 <!-- This is a single-line comment -->
+
+> This paper studies the evolving role that internal firm distance costs play in determining the geography of FDI and the export behavior of foreign affiliates of MNEs. I use shipment-level export data from India to examine the patterns and evolution of related-party trade over the past decade. The data show that foreign affiliates exhibit complex export behavior that is not well captured by the existing FDI literature and that this behavior has changed rapidly in recent years. I develop a partial-equilibrium model that matches these patterns and yields an estimable firm-level gravity equation allowing for heterogeneous distance elasticities between related-party and arm’s-length exports, which I estimate using Poisson Pseudo-Maximum Likelihood. The results indicate that related-party exports are less elastic to distance than arm’s-length exports, but that this difference has eroded over time, helping to explain a recent surge in inter-firm trade among the foreign affiliates of multinational firms. 
+
 <hr>
 
 ## Publication
