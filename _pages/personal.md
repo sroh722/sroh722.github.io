@@ -8,8 +8,8 @@ redirect_from:
 ---
 
 <figure>
-<div style="display:flex; gap:12px; justify-content:center; flex-wrap:wrap;">
-  <figure style="margin:0; text-align:center;">
+<div style="display:flex; gap:12px; justify-content:flex-start; flex-wrap:wrap;">
+  <figure style="margin:0; text-align:left; width:300px;">
     <img src="/files/Pics/orange.jpeg"
          alt="Living with a hairy orange animal"
          style="width:100%; max-width:300px; height:auto;"
@@ -17,8 +17,7 @@ redirect_from:
     <figcaption>My family's first cat: Orange (Big one)</figcaption>
   </figure>
 
-  <!-- CKC photo linking to an external page -->
-  <figure style="margin:0; text-align:center;">
+  <figure style="margin:0; text-align:left; width:300px;">
     <a href="https://kaichengchen.github.io/" target="_blank" rel="noopener noreferrer" title="CKC">
       <img src="/files/Pics/ckc.jpeg"
            alt="ckc"
