@@ -12,19 +12,20 @@ redirect_from:
   <figure style="margin:0; text-align:left; width:300px;">
     <img src="/files/Pics/orange.jpeg"
          alt="Living with a hairy orange animal"
-         style="width:100%; max-width:300px; height:auto;"
+         style="display:block; width:100%; height:200px; object-fit:cover; border-radius:4px;"
          loading="lazy">
-    <figcaption>My family's first cat: Orange (Big one)</figcaption>
+    <figcaption style="margin-top:10px;">My family's first cat: Orange (Big one)</figcaption>
   </figure>
 
   <figure style="margin:0; text-align:left; width:300px;">
     <a href="https://kaichengchen.github.io/" target="_blank" rel="noopener noreferrer" title="CKC">
       <img src="/files/Pics/ckc.jpeg"
            alt="ckc"
-           style="width:100%; max-width:300px; height:auto;"
+           style="display:block; width:100%; height:200px; object-fit:cover; border-radius:4px;"
            loading="lazy">
     </a>
-    <figcaption>My better half and study mate, CKC</figcaption>
+    <figcaption style="margin-top:10px;">My better half and study mate, CKC</figcaption>
   </figure>
-</div>
+</div>
+
 
