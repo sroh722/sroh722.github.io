@@ -9,7 +9,7 @@ redirect_from:
 
 <figure>
 
-  <img src="files/Pics/orange.jpeg" alt="Living with a hairy orange animal" width="70%">
+  <img src="/files/Pics/orange.jpeg" alt="Living with a hairy orange animal" width="70%">
 
   <figcaption>meow</figcaption>
 
