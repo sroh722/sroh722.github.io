@@ -13,6 +13,8 @@ Hi! I’m a Ph.D. candidate in the Department of Agricultural, Food, and Resourc
 
 Browsing MSU AFRE’s Job Market Candidate Page: [Me](https://www.afrejobcandidates.com/saera-oh) and [other great candidates](https://www.afrejobcandidates.com/)
 
+Browsing EconNow (!! newly launched !!): [Go](https://econ.now/people/saera-oh-2025)
+
 **Contact**: ohsaera@msu.edu
 
 ## News 📢 
