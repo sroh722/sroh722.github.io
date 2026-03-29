@@ -9,12 +9,6 @@ redirect_from:
 
 Hi! I’m a Ph.D. candidate in the Department of Agricultural, Food, and Resource Economics (AFRE) with a dual major in Economics at Michigan State University. My fields of interest include *international trade*, *trade policy*, and *economic development*. My research broadly focuses on understanding heterogeneous trade patterns and the impacts of geopolitical events at both the firm and aggregate levels, as well as the effects of trade on resource use. I enjoy working with data particularly developing and applying tools for data acquisition, integration, and analysis. Before beginning my Ph.D., I worked as a researcher at the Korea Rural Economic Institute, where I gained valuable experience studying practical issues in international commerce and trade.
 
-**I will be on the job market in the 2025-2026 academic year.**
-
-Browsing MSU AFRE’s Job Market Candidate Page: [Me](https://www.afrejobcandidates.com/saera-oh) and [other great candidates](https://www.afrejobcandidates.com/)
-
-Browsing EconNow (!! newly launched !!): [Go](https://econ.now/people/saera-oh-2025)
-
 **Contact**: ohsaera@msu.edu
 
 ## News 📢 
