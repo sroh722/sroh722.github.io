@@ -28,12 +28,10 @@ With the spread of global agricultural value chains, international geopolitical 
 
 ## Working Paper
 
-🔖 Global Value Chains and Intellectual Property Right in Agricultural Trade (with Sunghun Lim and Titus Awokuse) - _A draft will be provided upon request_, [[slides]](https://sroh722.github.io/files/AAEA2023_SaeraOh.pdf) 
-
-> Abstract: This study examines the impact of intellectual property rights (IPR)-related trade policy on agri-food global value chains (GVCs). We analyze the trade effects of IPR provisions based on their specific characteristics, utilizing the deep trade agreement data published by the World Bank. This data allows us to classify the IPR provisions into "WTO-plus" and "WTO-extra" aspects of IPR provisions. The former pertains to what is mandated by the World Trade Organization (WTO) and includes supplementary procedural regulations, while the latter requires adherence to extra IP-related treaties to expand the IP protection system beyond WTO regulations. The results show that contents of the IPR provisions matter and when IPR protection is mandated through complementary provisions they indeed enhance trade. 
+🔖 Global Value Chains and Intellectual Property Right in Agricultural Trade (with Sunghun Lim and Titus Awokuse) - _A draft will be provided upon request_
 
 ## Work in Progress
 
 🔖 Trade Policy, Crop Choice, and Water Stress: Evidence from Mexican Agriculture (with Hyeseon Shin)
 
-> Abstract: International trade can influence the crop choices of local farmers, with important implications for water use, as some crops are significantly more water-intensive than others. Yet, trade patterns do not always align with comparative advantages in water availability—water-scarce countries may continue to export water-intensive crops, potentially worsening local water shortages. This study investigates how trade policy shapes crop selection in Mexican agriculture and evaluates its effects on local water resources. We construct an open-economy general equilibrium model with a nested crop-choice framework, which allows us to explicitly capture heterogeneous responses across different types of land to price changes resulting from trade policies or trade shocks. By assuming a complementary relationship between land and water in production technology, we can examine changes in water use under our scenarios and discuss the implications of these changes in the context of water stress and Mexico’s hydrological infrastructure investment.
+🔖 Transfer Pricing and Policy Shocks: Evidence from Mexico's Trade with China and the United States (with Oren Ziv)
