@@ -3,10 +3,11 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
-redirect_from: 
-  - /cv
 ---
 
-{% include base_path %}
+My current curriculum vitae is available [here](/files/CV_SaeraOh_Econ_update.pdf).
 
-Sharing my [CV](/files/CV_SaeraOh_Econ_update.pdf) here.
+Additional profiles:
+
+- [Google Scholar](https://scholar.google.com/citations?user=GA4c3iwAAAAJ&hl=en)
+- [LinkedIn](https://www.linkedin.com/in/saera-oh-a42281284)

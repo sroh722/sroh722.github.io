@@ -1,181 +1,41 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
+locale: "en-US"
+title: "Saera Oh"
+title_separator: "-"
+name: "Saera Oh"
+description: "Academic homepage for Saera Oh, Ph.D. Candidate in Agricultural, Food, and Resource Economics and Economics at Michigan State University."
+url: "https://sroh722.github.io"
+baseurl: ""
+repository: "sroh722/sroh722.github.io"
+timezone: America/Detroit
+permalink: pretty
 
-# Site Settings
-locale                   : "en-US"
-title                    : "Saera Oh"
-title_separator          : "-"
-name                     : &name "Saera Oh"
-description              : &description "PhD Candidate, Michigan State University"
-URL                      : "https://sroh722.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "sroh722/sroh722.github.io"
-teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-breadcrumbs              : false # true, false (default)
-words_per_minute         : 160
-future                   : true
-read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
-talkmap_link             : false #change to true to add link to talkmap on talks page
-comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
-  disqus:
-    shortname            :
-  discourse:
-    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-  facebook:
-    appid                :
-    num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
-staticman:
-  allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
-  commitMessage          : "New comment."
-  filename               : comment-{@timestamp}
-  format                 : "yml"
-  moderation             : true
-  path                   : "_data/comments/{options.slug}"
-  requiredFields         : ['name', 'email', 'message']
-  transforms:
-    email                : "md5"
-  generatedFields:
-    date:
-      type               : "date"
-      options:
-        format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
-# atom_feed:
-  # path                   : # blank (default) uses feed.xml
-
-# SEO Related
-google_site_verification :
-bing_site_verification   :
-alexa_site_verification  :
-yandex_site_verification :
-
-# Social Sharing
-twitter:
-  username               : &twitter
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
-og_image                 :  # Open Graph/Twitter default site image
-# For specifying social profiles
-# - https://developers.google.com/structured-data/customize/social-profiles
-social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
-
-
-# Analytics
-analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
-  google:
-    tracking_id          :
-
-
-# Site Author
 author:
-  name             : "Saera Oh"
-  avatar           : "https://s2.loli.net/2025/04/29/zLxsNQF2JPCuX6q.png"
-  bio              : "PhD Candidate, Michigan State University"
-  location         : "East Lansing, Michigan"
-  # employer         : "Department of Agriculture, Food and Resource Economics"
-  # pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=GA4c3iwAAAAJ&hl=en"
-  email            : "ohsaera@msu.edu"
-  # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  # uri              :
-  # bitbucket        :
-  # codepen          :
-  # dribbble         :
-  # flickr           :
-  # facebook         :
-  # foursquare       :
-  # github           : "sroh722"
-  # google_plus      :
-  # keybase          :
-  # instagram        :
-  # impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  # lastfm           :
-  LinkedIn           : https://www.linkedin.com/in/saera-oh-a42281284
-  # orcid            : "http://orcid.org/0000-0003-1929-3520"
-  # pinterest        :
-  # soundcloud       :
-  # stackoverflow    : # http://stackoverflow.com/users/123456/username
-  # steam            :
-  # tumblr           :
-  twitter            : "Saera_Oh"
-  # vine             :
-  # weibo            :
-  # xing             :
-  # youtube          :
-  # wikipedia        :
-  # researchmap      : "https://researchmap.jp/yuichirowaki/"
+  name: "Saera Oh"
+  avatar: "profile/saera-oh-headshot.jpg"
+  bio: "Ph.D. Candidate in Agricultural, Food, and Resource Economics and Economics at Michigan State University"
+  location: "East Lansing, Michigan"
+  email: "ohsaera@msu.edu"
+  googlescholar: "https://scholar.google.com/citations?user=GA4c3iwAAAAJ&hl=en"
+  linkedin: "saera-oh-a42281284"
+  twitter: "Saera_Oh"
 
+twitter:
+  username: "Saera_Oh"
 
-# Reading Files
-include:
-  - .htaccess
-  - _pages
-  - files
-  - images
-exclude:
-  - "*.sublime-project"
-  - "*.sublime-workspace"
-  - .asset-cache
-  - .bundle
-  - .jekyll-assets-cache
-  - .sass-cache
-  - CHANGELOG
-  - Capfile
-  - Gemfile
-  - Gruntfile.js
-  - LICENSE
-  - README
-  - Rakefile
-  - assets/js/_main.js
-  - assets/js/plugins
-  - assets/js/vendor
-  - config
-  - gulpfile.js
-  - log
-  - node_modules
-  - package.json
-  - tmp
-  - vendor
-keep_files:
-  - .git
-  - .svn
-encoding: "utf-8"
-markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+social:
+  type: Person
+  name: "Saera Oh"
+  links:
+    - "https://scholar.google.com/citations?user=GA4c3iwAAAAJ&hl=en"
+    - "https://www.linkedin.com/in/saera-oh-a42281284"
+    - "https://twitter.com/Saera_Oh"
 
+analytics:
+  provider: false
 
-# Conversion
-markdown: kramdown
-highlighter: rouge
-lsi: false
-excerpt_separator: "\n\n"
-incremental: false
+comments:
+  provider: false
 
-
-# Markdown Processing
-kramdown:
-  input: GFM
-  hard_wrap: false
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  smart_quotes: lsquo,rsquo,ldquo,rdquo
-  enable_coderay: false
-
-
-# Collections
 collections:
   teaching:
     output: true
@@ -190,123 +50,73 @@ collections:
     output: true
     permalink: /:collection/:path/
 
+include:
+  - _pages
+  - files
+  - images
 
-# Defaults
+exclude:
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README
+  - node_modules
+  - package.json
+  - vendor
+
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+markdown: kramdown
+highlighter: rouge
+
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+
 defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
-  # _pages
   - scope:
       path: ""
       type: pages
     values:
       layout: single
       author_profile: true
-  # _teaching
   - scope:
       path: ""
       type: teaching
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
-  # _publications
   - scope:
       path: ""
       type: publications
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
-  # _portfolio
   - scope:
       path: ""
       type: portfolio
     values:
       layout: single
       author_profile: true
-      share: true
-      comment: true
-  # _talks
   - scope:
       path: ""
       type: talks
     values:
       layout: talk
       author_profile: true
-      share: true
 
-# Sass/SCSS
 sass:
   sass_dir: _sass
-  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+  style: compressed
 
-
-# Outputting
-permalink: /:categories/:title/
-# paginate: 5 # amount of posts to show
-# paginate_path: /page:num/
-timezone: America/Detroit # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-
-
-# Plugins
-# plugins:
-  # - jekyll-paginate
-  # - jekyll-sitemap
-  # - jekyll-gist
-  # - jekyll-feed
-  # - jekyll-redirect-from
-# mimic GitHub Pages with --safe
-# whitelist:
- # - jekyll-paginate
- # - jekyll-sitemap
- # - jekyll-gist
- # - jekyll-feed
- # - jemoji
-
-
-# Archives
-#  Type
-#  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
-#  - Jekyll Archives plugin archive pages ~> type: jekyll-archives
-#  Path (examples)
-#  - Archive page should exist at path when using Liquid method or you can
-#    expect broken links (especially with breadcrumbs enabled)
-#  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
-#  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
-#  - <base_path/my-awesome-category/index.html ~> path: /
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
-# https://github.com/jekyll/jekyll-archives
-# jekyll-archives:
-#   enabled:
-#     - categories
-#     - tags
-#   layouts:
-#     category: archive-taxonomy
-#     tag: archive-taxonomy
-#   permalinks:
-#     category: /categories/:name/
-#     tag: /tags/:name/
-
-
-# HTML Compression
-# - http://jch.penibelst.de/
 compress_html:
   clippings: all
   ignore:

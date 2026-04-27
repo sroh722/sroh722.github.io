@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Saera Oh placeholder portrait</title>
+  <desc id="desc">A local placeholder portrait with the initials SO for use until a profile photo is added.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#dbe8e1"/>
+      <stop offset="100%" stop-color="#f0e5d1"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="1000" fill="url(#bg)"/>
+  <circle cx="400" cy="310" r="150" fill="#20453e" opacity="0.18"/>
+  <path d="M210 810c24-175 146-262 190-262s166 87 190 262" fill="#20453e" opacity="0.18"/>
+  <circle cx="400" cy="320" r="118" fill="#20453e" opacity="0.78"/>
+  <path d="M250 810c18-123 99-192 150-192s132 69 150 192" fill="#20453e" opacity="0.78"/>
+  <text x="50%" y="91%" text-anchor="middle" font-family="Fraunces, Georgia, serif" font-size="118" fill="#996130" letter-spacing="12">SO</text>
+</svg>

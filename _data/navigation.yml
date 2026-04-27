@@ -1,16 +1,12 @@
-# main links links
 main:
-  - title: "CV"
-    url: /cv/
-    
   - title: "Research"
     url: /research/
-    
+
   - title: "Teaching"
     url: /teaching/
 
-  - title: "고양이"
-    url: /personal/
+  - title: "CV"
+    url: /cv/
 
-  # title: "Blog Posts"
-  #  url: /year-archive/
+  - title: "Personal"
+    url: /personal/
