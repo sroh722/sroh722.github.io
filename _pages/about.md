@@ -5,7 +5,7 @@ permalink: /
 author_profile: true
 ---
 
-I am a Ph.D. candidate in the Department of Agricultural, Food, and Resource Economics at Michigan State University, with a dual major in Economics. My research focuses on heterogeneity in international trade, the behavior of multinational firms. More broadly, I am interested in economic development, including how trade policy affects resource use in agriculture.
+I am a Ph.D. candidate in the Department of Agricultural, Food, and Resource Economics at Michigan State University, with a dual major in Economics. My research focuses on international trade and multinational firms. More broadly, I am interested in economic development, including how trade policy affects resource use in agriculture.
 
 I earned my M.A. and B.S. from Seoul National University. Outside of research, I enjoy traveling and riding bicycles.
 
