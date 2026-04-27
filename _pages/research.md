@@ -1,51 +1,26 @@
 ---
-layout: page-clean
+layout: archive
 title: "Research"
 permalink: /research/
-eyebrow: "Research"
-lede: "My work focuses on international trade, multinational firms, and the organization of global supply chains."
+author_profile: true
 ---
 
-<section class="page-section">
-  <div class="section-heading">
-    <p class="section-heading__eyebrow">Job Market Paper</p>
-    <h2>Featured Work</h2>
-  </div>
-</section>
+## Working Paper
 
-<article class="entry-card">
-  <p class="entry-card__meta">Working Paper</p>
-  <h2>Related Party Trade and Gravity: Revisiting the Distance Effects</h2>
-  <p>This paper investigates how internal firm distance costs shape the geography of foreign direct investment and the export behavior of foreign multinational affiliates. Using shipment-level export data from India, I document how related-party trade patterns have evolved over the past decade and show that foreign affiliates engage in export behavior that is more complex than what is typically captured in the existing FDI literature. I derive a firm-level gravity equation with heterogeneous distance elasticities for related-party and arm's-length exports and estimate it using Poisson pseudo-maximum likelihood. The results indicate that related-party exports are less sensitive to distance than arm's-length exports, consistent with the distance premium for within-firm trade documented in domestic settings. I also find that this internal distance premium at longer distances has eroded in recent years, helping explain the rise in inter-firm trade among foreign affiliates.</p>
-  <div class="entry-card__actions">
-    <a class="button-link" href="/files/JMP_Saera_Latest.pdf">Download draft</a>
-  </div>
-</article>
+### Related Party Trade and Gravity: Revisiting the Distance Effects
 
-<section class="page-section">
-  <div class="section-heading">
-    <p class="section-heading__eyebrow">Publications</p>
-    <h2>Published Research</h2>
-  </div>
-</section>
+This paper investigates how internal firm distance costs shape the geography of foreign direct investment and the export behavior of foreign multinational affiliates. Using shipment-level export data from India, I document how related-party trade patterns have evolved over the past decade and show that foreign affiliates engage in export behavior that is more complex than what is typically captured in the existing FDI literature. I derive a firm-level gravity equation with heterogeneous distance elasticities for related-party and arm's-length exports and estimate it using Poisson pseudo-maximum likelihood. The results indicate that related-party exports are less sensitive to distance than arm's-length exports, consistent with the distance premium for within-firm trade documented in domestic settings. I also find that this internal distance premium at longer distances has eroded in recent years, helping explain the rise in inter-firm trade among foreign affiliates.
 
-<article class="entry-card">
-  <p class="entry-card__meta">Journal Article</p>
-  <h3>Geopolitical Risks and Agricultural Trade Diversification in Southern Africa: Port-level Evidence from the Russia-Ukraine War</h3>
-  <p><strong>With Sunghun Lim.</strong> Published in the <em>Journal of the Agricultural and Applied Economics Association</em>.</p>
-  <p>This paper studies how South Africa adjusted wheat sourcing after Russia's invasion of Ukraine and how that diversification affected supply stability within southern Africa. The findings show that rapid import diversification helped offset a decline in average wheat imports, though it increased annual volatility, and that the adjustment had important spillovers for landlocked neighboring countries.</p>
-  <div class="entry-card__actions">
-    <a class="button-link" href="https://onlinelibrary.wiley.com/doi/full/10.1002/jaa2.141?campaign=wolearlyview">Read publication</a>
-  </div>
-</article>
+[Download draft](/files/JMP_Saera_Latest.pdf){: .btn .btn--inverse}
 
-<section class="page-section">
-  <div class="section-heading">
-    <p class="section-heading__eyebrow">Work In Progress</p>
-    <h2>Current Projects</h2>
-  </div>
-  <ul class="bullet-list">
-    <li><strong>Trade Policy, Crop Choice, and Water Stress: Evidence from Mexican Agriculture</strong> with Hyeseon Shin</li>
-    <li><strong>Transfer Pricing and Policy Shocks: Evidence from Mexico's Trade with China and the United States</strong> with Oren Ziv</li>
-  </ul>
-</section>
+## Publication
+
+### Geopolitical Risks and Agricultural Trade Diversification in Southern Africa: Port-level Evidence from the Russia-Ukraine War 
+(with Sunghun Lim. Published in the *Journal of the Agricultural and Applied Economics Association*.)
+
+[Read publication](https://onlinelibrary.wiley.com/doi/full/10.1002/jaa2.141?campaign=wolearlyview){: .btn .btn--inverse}
+
+## Work In Progress
+
+- **Trade Policy, Crop Choice, and Water Stress: Evidence from Mexican Agriculture** (with Hyeseon Shin)
+- **Transfer Pricing and Policy Shocks: Evidence from Mexico's Trade with China and the United States** (with Oren Ziv)
