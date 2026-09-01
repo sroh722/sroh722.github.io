@@ -6,15 +6,15 @@ description: "Academic homepage for Saera Oh, Ph.D. Candidate in Agricultural, F
 url: "https://sroh722.github.io"
 baseurl: ""
 repository: "sroh722/sroh722.github.io"
-timezone: America/Detroit
+timezone: Asia/Seoul
 permalink: pretty
 
 author:
   name: "Saera Oh"
   avatar: "profile/saera-oh-headshot.jpg"
-  bio: "Ph.D. Candidate, Michigan State University"
-  location: "East Lansing, Michigan"
-  email: "ohsaera@msu.edu"
+  bio: "Research Fellow, Korea Economic Research Institute"
+  location: "Seoul, South Korea"
+  email: "ohsaera@fki.or.kr"
   googlescholar: "https://scholar.google.com/citations?user=GA4c3iwAAAAJ&hl=en"
   linkedin: "saera-oh-a42281284"
   twitter: "Saera_Oh"

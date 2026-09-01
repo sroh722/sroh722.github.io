@@ -5,11 +5,13 @@ permalink: /
 author_profile: true
 ---
 
-I am a Ph.D. candidate in the Department of Agricultural, Food, and Resource Economics at Michigan State University, with a dual major in Economics. My research focuses on international trade and multinational firms. More broadly, I am interested in economic development, including how trade policy affects resource use in agriculture.
+I am a Research Fellow at the [Korea Economic Research Institute](https://keri.org/). My research focuses on international trade and multinational firms. More broadly, I am interested in questions related to economic development, including how trade and trade policy affect resource use in agriculture.
 
-I earned my M.A. and B.S. from Seoul National University. Outside of research, I enjoy traveling and riding bicycles.
+I received my Ph.D. from the Department of Agricultural, Food, and Resource Economics at Michigan State University, with a dual major in Economics, in 2026. I earned my M.A. and B.S. from Seoul National University.
 
-Contact: [ohsaera@msu.edu](mailto:ohsaera@msu.edu)
+Outside of research, I enjoy traveling and cycling.
+
+Contact: [ohsaera@fki.or.kr](mailto:ohsaera@fki.or.kr)
 
 <section class="news-block" aria-labelledby="news-heading">
   <h2 id="news-heading">News</h2>
@@ -24,7 +26,7 @@ Contact: [ohsaera@msu.edu](mailto:ohsaera@msu.edu)
       <time class="news-date" datetime="2024-12">December 2024</time>
       <p class="news-body">"<span>Geopolitical Risks and Agricultural Trade Diversification in Southern Africa: Port-level Evidence from the Russia-Ukraine War</span>" was published in the <em>Journal of the Agricultural and Applied Economics Association</em>.</p>
     </article>
-
+    
     <article class="news-item">
       <time class="news-date" datetime="2024-07">July 2024</time>
       <p class="news-body">Presented at the Agricultural and Applied Economics Association annual meeting in New Orleans.</p>
@@ -43,7 +45,7 @@ Contact: [ohsaera@msu.edu](mailto:ohsaera@msu.edu)
         <time class="news-date" datetime="2023-07">July 2023</time>
         <p class="news-body">Presented at the Agricultural and Applied Economics Association annual meeting in Washington, D.C.</p>
       </article>
-
+    
       <article class="news-item">
         <time class="news-date" datetime="2022-12">December 2022</time>
         <p class="news-body">Presented at the International Agricultural Trade Research Consortium annual meeting in Clearwater Beach.</p>
