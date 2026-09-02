@@ -5,7 +5,7 @@ permalink: /
 author_profile: true
 ---
 
-I am a Research Fellow at the [Korea Economic Research Institute](https://keri.org/). My research focuses on international trade and multinational firms. More broadly, I am interested in questions related to economic development, including how trade and trade policy affect resource use in agriculture.
+Welcome! I am a Research Fellow at the [Korea Economic Research Institute](https://keri.org/). My research focuses on international trade and multinational firms. More broadly, I am interested in questions related to economic development, including how trade and trade policy affect resource use in agriculture.
 
 I received my Ph.D. from the Department of Agricultural, Food, and Resource Economics at Michigan State University, with a dual major in Economics, in 2026. I earned my M.A. and B.S. from Seoul National University.
 
