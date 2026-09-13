@@ -97,6 +97,14 @@ a:focus {
   border-bottom-color: rgba(47, 90, 82, 0.18);
 }
 
+.resource-heading {
+  font-family: Verdana, Geneva, sans-serif;
+}
+
+.resource-list > li > p:first-child {
+  margin-bottom: 0.35rem;
+}
+
 .page__content a,
 .archive a {
   text-decoration-color: rgba(47, 90, 82, 0.35);
